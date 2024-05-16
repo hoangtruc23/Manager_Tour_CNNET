@@ -1,14 +1,26 @@
-Chức năng phần mềm
-1) Quản lý tour
-  - Đặt vé
-  - Thêm, xóa, sửa thông tin tour
-2) Quản lý khách hàng
- - Thêm, xóa, sửa khách hàng
-3) Quản lý hóa đơn
-4) Thống kê
-   - Thống kê doanh thu
+# Thông tin chung
+1) Phần mềm “Quản Lý Tour Du Lịch” dùng cho việc quản lý bán tour một cách dễ dàng, tiện lợi hơn.
+2) Tất cả phần tính tổng tiền, tính khuyến mãi đều do phần mềm làm.
+3) Trong tất cả các chức năng đều có tìm kiếm để thuận tiện cho việc tìm kiếm dữ liệu một cách nhanh hơn.
+4) Mọi mã đều được tạo tự động.
+
+# Chức năng phần mềm
+**Phân Quyền**
+1) Quyền quản lý: Thực hiện được hết tất cả các chức năng trong phần mềm
+2) Quyền nhân viên: Không được truy cập vào quyền quản lý nhân viên và thống kê
+   
+**Quản lý tour**
+1) Đặt vé
+2) Thêm, xóa, sửa thông tin tour
+   
+**Quản lý khách hàng**
+1) Thêm, xóa, sửa khách hàng
+   
+**Quản lý hóa đơn**
+**Thống kê**
+1) Thống kê doanh thu
   
-Cách chạy file
+# Cách chạy file
 1) Chạy file database
 2) Mở file lên sửa chuoiketnoi ở DBConnection để kết nối Database
 3) Đăng nhập:
