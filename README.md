@@ -11,15 +11,20 @@
 2) Quyền nhân viên: Không được truy cập vào quyền quản lý nhân viên và thống kê
    
 **Quản lý tour**
-1) Đặt vé
-2) Thêm, xóa, sửa thông tin tour
+- Đặt vé
+- Thêm, xóa, sửa thông tin tour
    
 **Quản lý khách hàng**
-1) Thêm, xóa, sửa khách hàng
+- Thêm, xóa, sửa khách hàng
+
+**Quản lý nhân viên**
+- Thêm, xóa, sửa nhân viên
    
 **Quản lý hóa đơn**
+- Thêm, xóa, sửa hóa đơn
+  
 **Thống kê**
-1) Thống kê doanh thu
+- Thống kê doanh thu
   
 # Cách chạy file
 1) Chạy file database
